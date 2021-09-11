@@ -6,7 +6,7 @@ body {
 }
 
 .back-img {
-    background-image: url(../images/leon.jpg);
+    background-image: url('../../images/image.png');
     background-position: 50%;
     background-size: cover;
     min-height: 100vh;
